@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication1", "MvcApplication1\MvcApplication1.csproj", "{C10416AB-80C0-487F-92B7-35B8A689A22E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{155A66AA-0C97-4DAE-AC8B-2871B7C0CECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C10416AB-80C0-487F-92B7-35B8A689A22E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10416AB-80C0-487F-92B7-35B8A689A22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10416AB-80C0-487F-92B7-35B8A689A22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10416AB-80C0-487F-92B7-35B8A689A22E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{155A66AA-0C97-4DAE-AC8B-2871B7C0CECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155A66AA-0C97-4DAE-AC8B-2871B7C0CECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155A66AA-0C97-4DAE-AC8B-2871B7C0CECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155A66AA-0C97-4DAE-AC8B-2871B7C0CECA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35
+	EndGlobalSection
+EndGlobal
